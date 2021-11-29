@@ -4,7 +4,7 @@
 The main objective of the project is to create a machine learning model which is
 capable of predicting the results of a football match in terms of winning
 probability at the half time by considering not only the goals scored by both
-teams but also their historical performances and current table standings. I have created a flask app to depict the results for the same.
+teams but also their historical performances and current table standings. I have created a flask app to depict the results for the same. We have considered the data of the past 15 years of English Premier League to predict the winner of the match of the user's interest.
 
 
 ## Deployment
