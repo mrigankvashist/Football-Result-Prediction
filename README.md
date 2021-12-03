@@ -8,8 +8,8 @@ teams but also their historical performances and current table standings. I have
 
 
 ## Deployment
-
-To serve this project run
+Can view the project on : http://mrigankvashist08.pythonanywhere.com/
+Also, to serve this project run
 
 ```bash
   python app.py 
